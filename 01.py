@@ -10,7 +10,7 @@ def index():
 
 @app.route('/about')
 def about():
-    return 'Text'
+    return 'Text about smth'
 
 
 if __name__ == '__main__':
